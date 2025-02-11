@@ -89,4 +89,5 @@ public class Cotisation {
     public void setNumeroreference(String numeroreference) {
         this.numeroreference = numeroreference;
     }
+
 }
